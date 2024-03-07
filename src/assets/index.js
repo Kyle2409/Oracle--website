@@ -6,7 +6,7 @@ import coinbase from "./coinbase.png";
 import dropbox from "./dropbox.png";
 import logo from "./oracle-group-logo-1.svg";
 import quotes from "./quotes.svg";
-import robot from "./robot.png";
+import robot from "./Group 1.png";
 import send from "./Send.svg";
 import shield from "./Shield.svg";
 import star from "./Star.svg";
